@@ -115,7 +115,7 @@ Keras手写识别字符集Demo
  
  4.数据集 
  
-	kerashandwerite.py的数据集下载地址：http://pan.baidu.com/s/1nvEuc8D
+	kerashandwerite.py的数据集下载地址：http://pan.baidu.com/s/1nvEuc8D http://yann.lecun.com/exdb/mnist/
 	
 ## 基于Keras的CNN性别年龄预测预测
 本次request通过keras实现了性别预测
